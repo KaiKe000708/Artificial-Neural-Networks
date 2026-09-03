@@ -71,7 +71,7 @@ Ao final da execução, um gráfico de convergência do treinamento é salvo aut
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT — veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está sob a licença MIT | veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
